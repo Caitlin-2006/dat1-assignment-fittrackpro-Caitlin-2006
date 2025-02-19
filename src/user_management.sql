@@ -1,6 +1,4 @@
 -- Initial SQLite setup
-.open fittrackpro.db
-.mode column
 
 -- Enable foreign key support
 
@@ -9,8 +7,10 @@
 -- 1. Retrieve all members
 -- TODO: Write a query to retrieve all members
 
+
 -- 2. Update a member's contact information
 -- TODO: Write a query to update a member's contact information
+
 
 -- 3. Count total number of members
 -- TODO: Write a query to count the total number of members

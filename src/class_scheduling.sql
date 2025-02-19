@@ -1,6 +1,5 @@
 -- Initial SQLite setup
-.open fittrackpro.db
-.mode column
+
 
 -- Enable foreign key support
 
@@ -15,8 +14,10 @@
 -- 3. Register a member for a class
 -- TODO: Write a query to register a member for a class
 
+
 -- 4. Cancel a class registration
 -- TODO: Write a query to cancel a class registration
+
 
 -- 5. List top 5 most popular classes
 -- TODO: Write a query to list top 5 most popular classes
